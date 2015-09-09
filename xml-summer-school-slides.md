@@ -1,25 +1,24 @@
 
----
+layout: true
+hidden: true
 name: xml-summer-school
 count: false
-
-.footnote[xml summer school 2015]
+.school_copholon[Oxford xml summer school 2015]
 
 ---
+class: title, center, middle
 template: xml-summer-school
-
 
 title: Revolutions in publishing
 
-Revolutions in publishing
+# Revolutions in publishing
 
+
+.slide_nav[.blue[introduction]]
 
 ---
 template: xml-summer-school
-
 class: inverse
-
-hi there!
 
 .headline[
 * .green[Open Access]
@@ -37,7 +36,7 @@ hi there!
 * .red[The blockchain]
 ]
 
-hello!!
+.slide_nav[.blue[introduction]]
 
 ---
 
