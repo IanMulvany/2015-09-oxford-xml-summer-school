@@ -15,7 +15,7 @@ This is done using [markdown-to-slides](https://github.com/partageit/markdown-to
 $ markdown-to-slides -d oss-revolutions-in-publishing.md -o oss-revolutions-in-publishing-slide-format.html
 ```
 
-# Custom remark slides, for the presentation 
+# Custom remark slides, for the presentation
 xml-summer-school-single-slide.html
 xml-summer-school-slides.md
 xml-summer-school.html
