@@ -1,20 +1,24 @@
 # revolutions in publishing
 
-Scientific publishing has been a going concern since the 1660’s, and yet since then the practice of publishing has changed remarkably little, both in terms of the business models (subscription publishing) and core formats of discourse (static documents,   
+Scientific publishing has been a going concern since the 1660’s, and yet since then some aspects  of publishing has changed remarkably little, both in terms of the business models (subscription publishing) and core formats of discourse (static documents,   
 initially in paper, now in PDF).   
   
-This course will look at some of the key changes that are happening in the industry from both business and technological perspectives.   
+(That the entire scholarly record is effectively now online, and discoverable is an amazing achievement, and the importance of this should not be overlooked or it’s significance ignored).   
   
-We are going to step through some example innovations that are happening, and I have very broadly clustered these into trends that are having an immediate and important effect, trends that look like they have the potential to be game changes in the next five years, and then finally I’ll spend a small amount of time talking about highly speculative trends.   
+This course will look at some of the current key changes that are happening in the industry from both business and technological perspectives.   
+  
+We are going to step through some example innovations that are happening. I have clustered these into trends that are having an immediate and important effect, trends that look like they have the potential to be game changes in the next five years, and then finally I’ll spend a small amount of time talking about highly speculative trends.   
   
 These trends have implications for publishers, researchers and the general public, and I’ll highlight those as we go through this course.   
   
-If there is any unifying theme to all of these trends, it is that they are all driven by opportunities created by the internet, and the new capabilities that it provides around processing and tracking information, and the potential decrease in costs that are associated with manipulating purely digital objects. 
+If there is any unifying theme to all of these trends, it is that they are all driven by opportunities created by the internet, and the new capabilities that it provides around processing and tracking information, and the potential decrease in costs that are associated with manipulating purely digital objects.   
+  
+TODO: show the mind map here 
 
 
 ## Caveats
 
-I will spend a 
+Before going into these topics I want to set out my stall and be very clear about my biases: 
 
 ### advocate for open access
 
@@ -46,10 +50,15 @@ For the dominant trends I’ve picked the following three:
 
 ### Business models / Open Access
 
-From the business point of view we will look at the rise of open access, discuss the different flavours of open access, and discuss the how creative commons licences can support the goals of open access. We will look at how commercial and non commerical publishers have adopted open access. We will look at growing number of government and funder open access mandates, and   
-ask whether this means that open access is a lock in as the only viable publishing model in the future. 
+From the business point of view we will look at the rise of open access, discuss the different flavours of open access, and discuss the how creative commons licences can support the goals of open access. We will look at how commercial and non-commerical publishers have adopted open access. We will look at growing number of government and funder open access mandates, and   
+ask whether this means that open access is a lock in as the only viable publishing model in the future.   
+  
+TODO: Insert OA slides here! 
 
 #### Subscription
+
+- reader/librarian pays
+  Can be argued that this fairly places the burden of the costs of production on the target market, however IMO the bundling that happens in big deals makes this argument less water tight. 
 
 - low risk for the publisher
 
@@ -58,35 +67,24 @@ ask whether this means that open access is a lock in as the only viable publishi
 	- usually no fees 
 	  /var/folders/fc/_q9f5y4n51bb7kjf_tv7l9xw0000gn/T/com.skitch.skitch/DMD332FA184-B1D6-4A87-81AA-F2E84A294264/Academics_are_being_hoodwinked_into_writing_books_nobody_can_buy___Higher_Education_Network___The_Guardian.png
 
-- reader pays
-  can be good for a number of reasons
-
 #### Open access
 
 - Budapest declaration 
   February 2012   
     
-  Came out of a meeting funded by the Soros foundation (George Soros was a student of Karl Popper, and later merchant banker)  
+  Came out of a meeting funded by the Soros foundation (George Soros was a student of Karl Popper, and later a merchant banker)  
     
   13 original signatories   
     
-  outlined the definition of open access 
+  outlined the definition of open access   
+    
+  Interestingly at that time no specific licence was mentioned. 
 
 	- Free to Read
 
 	- Free to Reuse 
 
 	- Free to Modify 
-
-- Funders and Funder mandates
-
-	- White House Memo
-
-	- NRO
-
-	- Wellcome Trust
-
-	- HEFCE
 
 - Licences
 
@@ -105,10 +103,105 @@ ask whether this means that open access is a lock in as the only viable publishi
 		  An article processing fee is paid for the article to be published. 
 
 	- Creative common licences
+	  Listed from most permissive to least permissive.   
+	    
+	  note that CC0 is not technically a licence. 
+
+		- CC0
 
 		- CC-BY
 
 		- CC-BY-NC
+
+		- CC-BY-NC-ND
+
+- Funders and Funder mandates
+
+	- Wellcome Trust
+	  2013
+
+	- White House Memo
+	  [OSTP memo]([https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research)) was released in February 2013   
+	    
+	  No funds were set aside for achieving compliance of the memo, and that has led to adoption probably being somewhat slow. 
+
+		- CHORUS
+		  Launched 2014
+
+		- PubMedCommons
+		  Launched in 2000
+
+		- ArXiV
+		  Launched in 1991
+
+	- HEFCE
+	  2014
+
+	- Bill & Melinda Gates Policy
+	  2014
+
+	- NRO
+	  2015
+
+	- by 2014 over 500 OA policies, growing at 16% y/y
+
+- publishers
+
+	- BMC
+
+	- PLOS
+
+	- eLife
+
+	- University Presses
+
+	- PeerJ
+
+	- Elsevier
+
+	- SpringerNature
+
+- has OA been a success?
+
+	- yes
+
+		- more content is available free to read
+
+		- most funders have accepted that OA is in line with their mission
+
+		- most new journal launched today are OA journals
+
+	- if so, why?
+
+		- commerical publishers have discovered that it can be profitable 
+
+		- it appeals to our better angels 
+
+		- it strongly aligns with ideas of the public good
+
+		- the idea of creating a well functioning marketplace is also an appealing one 
+
+	- no
+
+		- global costs in the industry have continued to rise, and not been checked
+
+		- commerical publishers have retained an almost monopoly position in the market
+
+		- most authors today remain uninterested in OA
+
+	- if not, why not? 
+
+		- there remain a collective action problem
+
+			- 
+
+		- publishing infrastructure is baroque (including XML workflows)
+
+			- this means direct to web solutions have not disrupted the existing scholarly publishing infrastructure  
+
+		- journals remain a collection of micro-monopolies 
+
+#### meaning
 
 - Multiple Business models
 
@@ -125,65 +218,15 @@ ask whether this means that open access is a lock in as the only viable publishi
 
 	- making the cost of production disappear 
 
-- publishers
-
-	- BMC
-
-	- PLOS
-
-	- eLife
-
-	- University Presses
-
-	- PeerJ
-
-- Text and data mining rights
-
-- has OA been a success?
-
-	- yes
-
-		- more content is available free to read
-
-		- most funders have accepted that OA is in line with their mission
-
-		- most new journal launched today are OA journals
-
-	- no
-
-		- global costs in the industry have continued to rise, and not been checked
-
-		- commerical publishers have retained an almost monopoly position in the market
-
-		- most authors today remain uninterested in OA
-
-	- if so, why?
-
-		- commerical publishers have discovered that it can be profitable 
-
-		- it appeals to our better angels 
-
-		- it strongly aligns with ideas of the public good
-
-		- the idea of creating a well functioning marketplace is also an appealing one 
-
-	- if not, why not? 
-
-		- there remain a collective action problem
-
-			- 
-
-		- publishing infrastructure is baroque (including XML workflows)
-
-			- this means direct to web solutions have not disrupted the existing scholarly publishing infrastructure  
-
-		- journals remain a collection of micro-monopolies 
-
-#### meaning
-
 - subscription is a content based model
 
-	- the main customer is the institutional librarian
+	- access: the main customer is the institutional librarian
+
+	- sponsorship
+
+	- advertising
+
+	- reprints 
 
 - open access is a service based model
 
@@ -212,7 +255,9 @@ ask whether this means that open access is a lock in as the only viable publishi
 
 ### Research Data
 
-Research data is currently one of the hot topics in scientific discourse, working out how to handle it, how to support good creation of data, how to give appropriate credit for activities that surround data. We will look at a few aspects of data, and why it’s such an important trend in the STM sector. 
+Research data is currently one of the hot topics in scientific discourse, working out how to handle it, how to support good creation of data, how to give appropriate credit for activities that surround data. We will look at a few aspects of data, and why it’s such an important trend in the STM sector.   
+  
+TODO: pull in slides from data and literature talk. 
 
 #### Why care about data?
 
@@ -222,8 +267,7 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 #### What’s the relationship between the paper, and data?
 
-  
-It’s obvious to say this, but the data that research is built on is an integral part of the scientific process. A fair criticism of current publishing workflows is that publishers force authors to reduce much of their raw data into the form of graphics or images, and then to compress these images into low resolution versions for inclusion in a manuscript. The reader wants to get the underlying data, but has to go through a lot of hoops to get it. 
+A fair criticism of current publishing workflows is that publishers force authors to reduce much of their raw data into the form of graphics or images, and then to compress these images into low resolution versions for inclusion in a manuscript. The reader wants to get the underlying data, but has to go through a lot of hoops to get it. 
 
 - It’s one component of a research object!
 
@@ -275,11 +319,25 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 #### How to handle data?
 
+- We don’t really know
+
+- some data journals coming to market
+
+- now exists a way to cite data, but not widely used yet
+
+- libraries and research infrastructure facilities starting to provide services (e.g. CERN - Zenodo)
+
+- Funders increasingly looking to bring in open data policies
+
 ### AltMetrics
 
 #### what are they?
 
+TODO: show “the slide!”
+
 #### what’s their history?
+
+Manifesto was written in 2005 
 
 #### what’s the current state of the art? 
 
@@ -311,7 +369,11 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 	- datadryad
 
+	- zenodo
+
 #### what’s next for ALMs?
+
+- They provide a variety of different kinds of value to different actors in the space, but there has not yet been a “killer app”
 
 #### but what are they really about? 
 
@@ -335,6 +397,10 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 ### Computational papers
 
+#### iPython/Project Jupityr
+
+#### nbviewer
+
 #### encode project
 
 - describe the production process involved in creating this, it was a bit of a mess.
@@ -343,33 +409,49 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 #### Living Papers
 
+TODO: show eLife research advances   
+TODO: show astronomyy github journal   
+TODO: show journal that is entirely on github 
+
+- research advances
+
+- wikipedia
+
+- f1000 research
+
+- git driven journal
+
 ### The Blockchain
 
-## Concrete example - eLife
-
-### Submission
-
-#### authors fill in form fields
-
-#### metadata exported
-
-- CSV
-
-- XML
-
-- FTP
-
-- AWS
-
-### Content Procsessing
-
-### Intermediate processing
-
-#### 
+TODO: show data growth slides!! 
 
 ## emerging trends
 
-### Reproducability
+### Reproducibility
+
+#### What’s the issue with reproducibility
+
+  
+[2011 - 80% of studies could not be replicated]([http://www.nature.com/nrd/journal/v10/n5/full/nrd3439.html)](http://www.nature.com/nrd/journal/v10/n5/full/nrd3439.html)  
+  
+  
+[AMGEN result - 88% could not be replicated]([http://www.reuters.com/article/2012/03/28/us-science-cancer-idUSBRE82R12P20120328)](http://www.reuters.com/article/2012/03/28/us-science-cancer-idUSBRE82R12P20120328)  
+  
+  
+[nature editorial on the topic]  
+([http://www.nature.com/nature/journal/v483/n7391/full/483531a.html)](http://www.nature.com/nature/journal/v483/n7391/full/483531a.html)  
+  
+
+
+#### Efforts to address this problem
+
+- computable papers
+
+- retraction watch
+
+- centre for open science
+  [Reproducibility project]([https://osf.io/ezcuj/wiki/home/)](https://osf.io/ezcuj/wiki/home/)  
+  
 
 #### what are we doing at eLife
 
@@ -399,37 +481,39 @@ It’s obvious to say this, but the data that research is built on is an integra
 
 	- the experiment is just really hard
 
-#### Other key efforts
-
-- retraction watch
-
-- centre for open science
-
-- computation papers
-
-#### what 
-
 ### Technology
 
 #### The browser 
 
-#### Classic STM applications 
+- Safari
+
+- Atom
+
+- Manuscripts.app
+
+#### Classic Steps In Publishing
+
+All of these steps can now be implemented in the browser, with rich applications. 
+
+- Authoring
+
+- Submission
+
+- Peer review 
+
+- Document conversion
 
 - Content enhancement 
+
+- Annotation
+
+- Corrections cycle
 
 - Pdf / print / pagination 
 
 - Downstream applications
 
-- Peer review 
-
-- Annotation
-
 - Search
-
-- Document conversion
-
-#### HTML5
 
 #### Markup Markdown and around
 
@@ -446,6 +530,4 @@ this is about the different options we have nowadays for transforming content fr
 - [http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/ ](http://blog.martinfenner.org/2015/04/23/introducing-scholarly-markdown-bundle/)
 
 - http://scholarlymarkdown.com/Scholarly-Markdown-HTML-Schema.html
-
-#### Webkit & the browser
 
